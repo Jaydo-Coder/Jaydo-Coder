@@ -5,9 +5,8 @@ My name is Jayden I love to code, develop websites and discord bots.
 ## 🔧 Technologies & Tools
 <br>
 <br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Jaydo-Coder?label=Github%20Followers&style=social">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jaydo-coder/Jaydo-Coder.github.io?label=GitHub%20last%20commit">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/jaydo-coder?label=Total%20Github%20Stars&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Jaydo-Coder?label=Github%20Followers&style=social"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jaydo-coder/Jaydo-Coder.github.io?label=GitHub%20last%20commit"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/jaydo-coder?label=Total%20Github%20Stars&style=social">
+
 <br>
 <img alt="OS Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a">
 <img alt="Editor Visual Studio Code" src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a">

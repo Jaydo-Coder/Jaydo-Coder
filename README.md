@@ -25,11 +25,11 @@ and more all for FREE? Well, you've found the right place! We offer things like:
 <br>
 Join Ultra Promotions Today! 
 <br>
-**Link:** https://discord.gg/KEbg2zk5RD
+Link: https://discord.gg/KEbg2zk5RD
 <br>
 
 ---
-
+### Information About Me!
 - 🔭 I’m currently working on: Websites
 - 🌱 I’m currently learning: PHP
 - 👯 I’m looking to collaborate on: Html, Css, PHP
@@ -37,3 +37,4 @@ Join Ultra Promotions Today!
 - 💬 Ask me about: Anything
 - 📫 How to reach me: **Coming Soon**
 
+---

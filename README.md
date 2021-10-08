@@ -11,7 +11,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 <img alt="" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a">
 <img alt="" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
 <img alt="" src="https://img.shields.io/badge/Code-PHP (Learning)-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a">
-<img alt="" src="https://img.shields.io/badge/Code-PHP (Learning)-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a">
+<br>
 --- 
 
 ### Information About Me!

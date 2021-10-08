@@ -33,7 +33,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 <a href="https://github.com/Jaydo-Coder/Jaydo-Coder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaydo-Coder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jaydo's GitHub Stats" />
 </a>
-
+<!--
 <a href="https://github.com/Jaydo-Coder/JAB-Productions-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydo-Coder&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -42,6 +42,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 <a href="https://github.com/Jaydo-Coder/JAB-Productions-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydo-Coder&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+-->
 
 ---
 

@@ -8,7 +8,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 <br>
 <img alt="OS Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a">
 <img alt="Editor Visual Studio Code" src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a">
-<img alt="" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a">
+<img alt="" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a">
 <img alt="" src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a">
 <img alt="" src="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a">
 --- 

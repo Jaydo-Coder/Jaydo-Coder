@@ -23,7 +23,9 @@ and more all for FREE? Well, you've found the right place! We offer things like:
 <br>
 ➦ ⚡ An unlimited advertising server with a 10 minute cooldown.
 <br>
-[Click Here To Join Ultra Promotions](https://discord.gg/KEbg2zk5RD)
+Join Ultra Promotions Today! 
+<br>
+**Link:** https://discord.gg/KEbg2zk5RD
 <br>
 
 ---

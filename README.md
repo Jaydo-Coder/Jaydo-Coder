@@ -17,7 +17,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 <br>
 -->
 
-
+<br>
 ## Information About Me!
 - 🔭 I’m currently working on: **Websites**
 - 🌱 I’m currently learning: **PHP**
@@ -26,7 +26,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 - 💬 Ask me about: **Anything**
 - 📫 How to reach me: **Coming Soon**
 
-
+<br>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Jaydo-Coder/Jaydo-Coder">
@@ -47,7 +47,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 </a>    
 -->
 
-
+<br>
 ## Ultra Promotions Discord Server
 <p>
  <!-- <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a> -->

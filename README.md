@@ -4,6 +4,16 @@ My name is Jayden I love to code a develop websites and discord bots.
 
 ---
 
+### Information About Me!
+- 🔭 I’m currently working on: Websites
+- 🌱 I’m currently learning: PHP
+- 👯 I’m looking to collaborate on: Html, Css, PHP
+- 🤔 I’m looking for help with: PHP
+- 💬 Ask me about: Anything
+- 📫 How to reach me: **Coming Soon**
+
+---
+
 ### Ultra Promotions Discord Server
 <p>
  <!-- <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a> -->
@@ -27,14 +37,3 @@ Join Ultra Promotions Today!
 <br>
 Link: https://discord.gg/KEbg2zk5RD
 <br>
-
----
-### Information About Me!
-- 🔭 I’m currently working on: Websites
-- 🌱 I’m currently learning: PHP
-- 👯 I’m looking to collaborate on: Html, Css, PHP
-- 🤔 I’m looking for help with: PHP
-- 💬 Ask me about: Anything
-- 📫 How to reach me: **Coming Soon**
-
----

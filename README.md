@@ -2,6 +2,7 @@
 
 My name is Jayden I love to code, develop websites and discord bots.
 
+<!--
 <br>
 <br>
 <img alt="GitHub last commit" src="https://img.shields.io/github/followers/Jaydo-Coder?label=Github%20Followers&style=social">
@@ -14,6 +15,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 <img alt="Code Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
 <img alt="Code PHP" src="https://img.shields.io/badge/Code-PHP (Learning)-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a">
 <br>
+-->
 
 --- 
 

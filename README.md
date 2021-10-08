@@ -1,6 +1,10 @@
-### Hello, folks! <img src="https://raw.githubusercontent.com/Jaydo-Coder/Jaydo-Coder/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/Jaydo-Coder/Jaydo-Coder/main/wave.gif" width="30px">
 
 My name is Jayden I love to code, develop websites and discord bots.
+
+---
+
+## 🔧 Technologies & Tools
 <br>
 <br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jaydo-Coder?label=Github%20Followers&style=social">

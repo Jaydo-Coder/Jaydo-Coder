@@ -8,11 +8,11 @@ My name is Jayden I love to code, develop websites and discord bots.
 ---
 
 ### Information About Me!
-- 🔭 I’m currently working on: Websites
-- 🌱 I’m currently learning: PHP
-- 👯 I’m looking to collaborate on: Html, Css, PHP
-- 🤔 I’m looking for help with: PHP
-- 💬 Ask me about: Anything
+- 🔭 I’m currently working on: **Websites**
+- 🌱 I’m currently learning: **PHP**
+- 👯 I’m looking to collaborate on: **Html, Css, PHP**
+- 🤔 I’m looking for help with: **PHP**
+- 💬 Ask me about: **Anything**
 - 📫 How to reach me: **Coming Soon**
 
 ---

@@ -1,6 +1,7 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Jayden I love to code, develop websites and discord bots.
+<br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jaydo-Coder?label=Github%20Followers&style=social">
 ---
 

@@ -8,6 +8,6 @@ My name is Jayden I love to code a develop websites and discord bots.
 - 👯 I’m looking to collaborate on ... Html, Css, PHP
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Discord Server] (https://discord.gg/KEbg2zk5RD)
+- 📫 How to reach me: ... [Discord Server](https://discord.gg/KEbg2zk5RD)
 
 

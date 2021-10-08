@@ -2,8 +2,6 @@
 
 My name is Jayden I love to code, develop websites and discord bots.
 
----
-
 ## 🔧 Technologies & Tools
 <br>
 <br>

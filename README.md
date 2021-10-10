@@ -19,7 +19,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=VisualStudioCode-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=VisualStudioCode-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)

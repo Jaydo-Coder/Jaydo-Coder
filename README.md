@@ -33,7 +33,7 @@ My name is Jayden I love to code, develop websites and discord bots.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
 
-## Information About Me!
+## &#x270d; Information About Me!
 - 🔭 I’m currently working on: **Websites**
 - 🌱 I’m currently learning: **PHP**
 - 👯 I’m looking to collaborate on: **Html, Css, PHP**

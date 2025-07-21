@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Jaydo-Coder/Jaydo-Coder/main/wave.gif" width="30px">
 
-My name is Jayden I love to code, develop websites and discord bots.
+My name is Jayden.
 
 <!--
 <br>
@@ -33,15 +33,6 @@ My name is Jayden I love to code, develop websites and discord bots.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
 
-## &#x270d; Information About Me!
-- 🔭 I’m currently working on: **Websites**
-- 🌱 I’m currently learning: **PHP**
-- 👯 I’m looking to collaborate on: **Html, Css, PHP**
-- 🤔 I’m looking for help with: **PHP**
-- 💬 Ask me about: **Anything**
-- 📫 How to reach me: **Coming Soon**
-
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Jaydo-Coder/Jaydo-Coder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydo-Coder&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -61,27 +52,3 @@ My name is Jayden I love to code, develop websites and discord bots.
 </a>    
 -->
 
-
-## Ultra Promotions Discord Server
-<p>
- <!-- <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a> -->
-</p>
-Are you looking for the best place to advertise your discord server, social media,
-and more all for FREE? Well, you've found the right place! We offer things like:
-<br>
-➦ 🆓 FREE advertising!
-<br>
-➦ 📈 Growing Server
-<br>
-➦ ❄️ 40+ Advertising Channels!
-<br>
-➦ ⭐ Easy to get PREMIUM advertising!
-<br>
-➦ 🎉 GIVEAWAYS and EVENTS!
-<br>
-➦ ⚡ An unlimited advertising server with a 10 minute cooldown.
-<br>
-Join Ultra Promotions Today! 
-<br>
-Link: https://discord.gg/KEbg2zk5RD
-<br>

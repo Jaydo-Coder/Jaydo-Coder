@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/Jaydo-Coder/Jaydo-Coder/main/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/Jaydo-Coder/Jaydo-Coder/main/wave.gif" width="30px">
 
 My name is Jayden.
 
